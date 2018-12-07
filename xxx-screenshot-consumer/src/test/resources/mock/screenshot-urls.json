@@ -1,0 +1,9 @@
+{
+  "urls": [
+    "https://www.journaldev.com/2573/spring-mvc-file-upload-example-single-multiple-files",
+    "https://www.baeldung.com/spring-file-upload",
+    "https://stackoverflow.com/questions/33143743/read-data-from-multipartfile-which-has-csv-uploaded-from-browser/33168456",
+    "https://www.rabbitmq.com/tutorials/tutorial-one-spring-amqp.html",
+    "https://mvnrepository.com/artifact/commons-io/commons-io/2.6"
+  ]
+}

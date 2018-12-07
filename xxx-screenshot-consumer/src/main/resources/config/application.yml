@@ -1,0 +1,20 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+mongo:
+  host: localhost
+  port: 27017
+  username: admin
+  password: admin
+  database: screenshots-db
+  fs:
+    bucket: fs-screenshots
+
+
+
+server:
+  port: 8081

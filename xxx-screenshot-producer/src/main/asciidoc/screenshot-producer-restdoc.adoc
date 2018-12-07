@@ -1,0 +1,28 @@
+= xxx Screenshot Producer
+v 1.0.0
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:highlightjs-theme: github
+:toc: left
+:toclevels: 4
+:sectlinks:
+:sectnums:
+
+[introduction]
+== Introduction
+Created by Vinod Jagwani as Challenge for xxx
+
+== ScreenshotProducer
+
+=== Screenshot for urls
+*Submit urls for screenshots*
+====
+Request
+include::{snippets}/screenshot-urls/http-request.adoc[]
+====
+====
+Response
+include::{snippets}/screenshot-urls/http-response.adoc[]
+====
+
